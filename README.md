@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/edriestarek218" target="blank"><img src="https://img.shields.io/twitter/follow/edriestarek218?logo=twitter&style=for-the-badge" alt="edriestarek218" /></a> </p>
 
-- 🔭 I’m currently working on **Gradution project**
+- 🔭 I’m currently working on **As Junior Computer Vision At Singlaurty**
 
 - 💬 Ask me about **computer vision**
 
